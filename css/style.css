@@ -37,7 +37,7 @@ button{
 h1{
 	text-underline-position: below;
 	text-align: center;
-	font-family: 'Courier New', Courier, monospace;}
+	font-family: 'Gayathri', sans-serif;}
 
 
 #headshot{
@@ -71,6 +71,7 @@ h1{
 	background-size: cover;
 	padding-bottom: 100px;
 	padding-top: 100px;
+	font-family: 'Gayathri', sans-serif;
   }
   .ParallaxImage h1 {
 	font-weight: 700;
@@ -92,7 +93,8 @@ h1{
   .ParallaxContent {
 	background: none repeat scroll 0 0 #f3e6ff;
 	padding: 10px 0;
-	color:#FFF;	
+	color:#FFF;
+	font-family: 'Gayathri', sans-serif;
   } 
   .ParallaxContent h2{
 	  color:#FFF;	
@@ -110,6 +112,7 @@ h1{
 	top:0;
 	left:0;
 	z-index: -999;
+	font-family: 'Gayathri', sans-serif;
 	}
 	.ParallaxVideo h1 {
 	  color: #fff;
@@ -117,4 +120,5 @@ h1{
 	  font-weight: 700;
 	  text-align: center;
 	  text-transform: uppercase;
+	  font-family: 'Gayathri', sans-serif;
 	}
