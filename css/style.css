@@ -1,0 +1,64 @@
+body{
+	background-color:#f3e6ff;
+	color:#006bb3;
+	background-image: url("https://cdn.pixabay.com/photo/2019/10/19/13/33/background-4561421_1280.jpg");
+	background-position: center;
+	background-size: 200%;
+	background-repeat: no-repeat;
+}
+
+div{
+	padding:10px;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.rcorners3 {
+	border-radius: 25px;
+	background-color: aliceblue;
+	padding: 20px;
+  }
+
+.content{
+	max-width: 70vw;
+	margin: auto;
+	background-color: aliceblue;
+}
+
+.grid-container{
+	display: grid;
+	grid-column-gap: 10px;
+	
+}
+
+h1{
+	border-bottom:dotted;
+	text-align: center;
+	font-family: 'Courier New', Courier, monospace;}
+
+
+#headshot{
+	size:70px
+}
+
+#bottomDiv {
+    position:absolute;
+	bottom:0;
+	right:0;
+}
+
+.centered{
+	text-align: center;
+}
+
+.hoverable:hover{
+	font-size:20px;
+	color:purple;
+	background-color:coral;
+}
+
+
+
