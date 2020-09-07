@@ -1,5 +1,5 @@
 function colorChange(){
-	document.getElementById("knapp1").innerHTML = "Mer mig.";
+	document.getElementById("knapp1").innerHTML = "Bring forth the kittycats!";
 	addElement();
 }
 
